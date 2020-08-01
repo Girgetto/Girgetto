@@ -8,10 +8,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 <img align="left" alt="Giegtto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Girgetto&show_icons=true&hide_border=true" />
 
-[website]: https://https://girgetto.github.io/portfolio/
+[website]: girgetto.github.io/portfolio/
 [twitter]: https://twitter.com/__Giorgio_
 [instagram]: https://instagram.com/giorgio_grassini
 [linkedin]: https://linkedin.com/in/giorgiograssini/

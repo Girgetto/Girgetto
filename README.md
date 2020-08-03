@@ -14,9 +14,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Reduce](https://gatsby-starter-blog-demo.netlify.com/reduce/)
-- [Uncommunicative name](https://gatsby-starter-blog-demo.netlify.com/uncomunicative-name/)
-- [Shotgun surgery](https://gatsby-starter-blog-demo.netlify.com/shotgun-surgery/)
+- [Reduce](https://https://girgetto-io.netlify.com/reduce/)
+- [Uncommunicative name](https://https://girgetto-io.netlify.com/uncomunicative-name/)
+- [Shotgun surgery](https://https://girgetto-io.netlify.com/shotgun-surgery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

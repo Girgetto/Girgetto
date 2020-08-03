@@ -10,6 +10,14 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <img align="left" alt="Giegtto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Girgetto&show_icons=true&hide_border=true" />
 
 [website]: girgetto.github.io/portfolio/

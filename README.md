@@ -1,5 +1,7 @@
 ### Hi, I'm Giorgio 👋
 
+I'm a big fan of the world of programming and technology. I put all of myself into every project I do, trying to bring my ideas to reality. I feel comfortable working in a group trying to inspire all my teammates. I began to study the basics of programming from high school, I continued my studies at the University of Florence. Moved to Madrid in 2017 to increase my knowledge in programming at IronHack where I work as Teacher's Assistant and from April 2019 part of the Guidesmiths team.
+
 ### Connect with me:
 
 ![GitHub followers](https://img.shields.io/github/followers/girgetto?label=Github&style=social)
@@ -9,9 +11,10 @@
 <br />
 <br />
 
+### 📕 Latest Blog Posts
+
 ---
 
-### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Reduce](https://girgetto-io.netlify.com/reduce/)
 - [Uncommunicative name](https://girgetto-io.netlify.com/uncomunicative-name/)

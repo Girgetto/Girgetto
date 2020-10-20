@@ -2,10 +2,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![GitHub followers](https://img.shields.io/github/followers/girgetto?label=Github&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/__giorgio_?label=Twitter&style=social)
+![Website](https://img.shields.io/website?label=Portfolio&up_message=https%3A%2F%2Fgirgetto.github.io%2Fportfolio%2F&url=https%3A%2F%2Fgirgetto.github.io%2Fportfolio%2F)
 
 <br />
 <br />

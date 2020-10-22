@@ -4,11 +4,12 @@ Full stack programmer in Guidesmiths
 
 ### Connect with me:
 
-![github](https://img.shields.io/github/followers/girgetto?label=Github&style=social)
-![twitter](https://img.shields.io/twitter/follow/__giorgio_?label=Twitter&style=social)
-![website](https://img.shields.io/website?label=Portfolio&up_message=https%3A%2F%2Fgirgetto.github.io%2Fportfolio%2F&url=https%3A%2F%2Fgirgetto.github.io%2Fportfolio%2F)
-![https://instagram.com/giorgio_grassini](https://img.shields.io/static/v1?label=Instagram&message=follow)
-
+[<img align="left" style="margin: 5px" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" style="margin: 5px" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" style="margin: 5px" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="margin: 5px" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" style="margin: 5px" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
+[<img align="left" style="margin: 5px; filter: invert(100%);-webkit-filter: invert(100%)" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 <br />
 <br />
 
@@ -30,4 +31,5 @@ Full stack programmer in Guidesmiths
 [twitter]: https://twitter.com/__Giorgio_
 [instagram]: https://instagram.com/giorgio_grassini
 [linkedin]: https://linkedin.com/in/giorgiograssini/
-[github]: https://github.com/Girgetto
+[dev]: https://dev.to/girgetto
+[stackoverflow]: https://stackoverflow.com/users/9095807/girgetto?tab=profile

@@ -4,9 +4,10 @@ Full stack programmer in Guidesmiths
 
 ### Connect with me:
 
-![GitHub followers](https://img.shields.io/github/followers/girgetto?label=Github&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/__giorgio_?label=Twitter&style=social)
-![girgetto.github.io/portfolio/](https://img.shields.io/website?label=Portfolio&up_message=https%3A%2F%2Fgirgetto.github.io%2Fportfolio%2F&url=https%3A%2F%2Fgirgetto.github.io%2Fportfolio%2F)
+![github](https://img.shields.io/github/followers/girgetto?label=Github&style=social)
+![twitter](https://img.shields.io/twitter/follow/__giorgio_?label=Twitter&style=social)
+![website](https://img.shields.io/website?label=Portfolio&up_message=https%3A%2F%2Fgirgetto.github.io%2Fportfolio%2F&url=https%3A%2F%2Fgirgetto.github.io%2Fportfolio%2F)
+![https://instagram.com/giorgio_grassini](https://img.shields.io/static/v1?label=Instagram&message=follow)
 
 <br />
 <br />
@@ -29,3 +30,4 @@ Full stack programmer in Guidesmiths
 [twitter]: https://twitter.com/__Giorgio_
 [instagram]: https://instagram.com/giorgio_grassini
 [linkedin]: https://linkedin.com/in/giorgiograssini/
+[github]: https://github.com/Girgetto

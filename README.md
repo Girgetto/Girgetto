@@ -18,6 +18,7 @@ Full stack developer at Guidesmiths
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Systemic: the silver bullet to develop perfect microservices in Node.JS.](https://girgetto-io.netlify.com/systemic/)
 - [Hacktoberfest 2020](https://girgetto-io.netlify.com/hacktoberfest2020/)
 - [Reduce](https://girgetto-io.netlify.com/reduce/)
 - [Uncommunicative name](https://girgetto-io.netlify.com/uncomunicative-name/)

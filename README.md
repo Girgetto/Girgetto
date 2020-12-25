@@ -4,7 +4,7 @@ Full stack developer at Guidesmiths
 
 ### Connect with me:
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/girgetto">
         <img src="https://img.shields.io/github/followers/girgetto.svg?label=GitHub&style=social" alt="GitHub Girgetto">
     </a>

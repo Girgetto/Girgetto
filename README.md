@@ -4,12 +4,26 @@ Full stack developer at Guidesmiths
 
 ### Connect with me:
 
-[<img align="left" style="margin: 5px" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" style="margin: 5px" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" style="margin: 5px" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="margin: 5px" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" style="margin: 5px" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
-[<img align="left" style="margin: 5px" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+<p align="center">
+    <a href="https://github.com/girgetto">
+        <img src="https://img.shields.io/github/followers/girgetto.svg?label=GitHub&style=social" alt="GitHub Girgetto">
+    </a>
+    <a href="https://twitter.com/__Giorgio_">
+        <img src="https://img.shields.io/twitter/follow/__Giorgio_?label=Twitter&style=social" alt="Twitter Girgetto">
+    </a>
+    <a href="https://twitch.tv/girgetto">
+        <img src="https://img.shields.io/badge/Twitch--_.svg?label=Twitch&style=social&logo=twitch" alt="Twitch Girgetto">
+    </a>
+    <a href="https://instagram.com/giorgio_grassini">
+        <img src="https://img.shields.io/badge/Instagram--_.svg?label=Instagram&style=social&logo=instagram" alt="Instagram">
+    </a>
+    <a href="https://dev.to/girgetto">
+        <img src="https://img.shields.io/badge/DEV--_.svg?style=social&logo=dev.to" alt="Dev.to Girgetto">
+    </a>
+    <a href="https://www.linkedin.com/in/giorgiograssini">
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+    </a>
+</p>
 <br />
 <br />
 

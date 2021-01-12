@@ -39,13 +39,4 @@ Full stack developer at Guidesmiths
 
 ---
 
-<img align="left" alt="Giegtto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Girgetto&show_icons=true&hide_border=true" />
-
-[website]: girgetto.github.io/portfolio/
-[twitter]: https://twitter.com/__Giorgio_
-[instagram]: https://instagram.com/giorgio_grassini
-[linkedin]: https://linkedin.com/in/giorgiograssini/
-[dev]: https://dev.to/girgetto
-[stackoverflow]: https://stackoverflow.com/users/9095807/girgetto?tab=profile
-
 ![Metrics](https://metrics.lecoq.io/Girgetto?template=classic&languages=1&followup=1&config.timezone=Europe%2FMadrid)

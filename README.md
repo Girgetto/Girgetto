@@ -47,3 +47,5 @@ Full stack developer at Guidesmiths
 [linkedin]: https://linkedin.com/in/giorgiograssini/
 [dev]: https://dev.to/girgetto
 [stackoverflow]: https://stackoverflow.com/users/9095807/girgetto?tab=profile
+
+![Metrics](https://metrics.lecoq.io/Girgetto?template=classic&languages=1&followup=1&config.timezone=Europe%2FMadrid)

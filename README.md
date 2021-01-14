@@ -1,6 +1,6 @@
 ### Hi, I'm Giorgio 👋
 
-Full stack developer at Guidesmiths
+Full Stack developer at Guidesmiths
 
 ### Connect with me:
 

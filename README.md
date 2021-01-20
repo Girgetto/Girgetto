@@ -41,4 +41,4 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/Girgetto?template=classic&languages=1&followup=1&config.timezone=Europe%2FMadrid)
+![Metrics](https://metrics.lecoq.io/Girgetto?template=classic&config.timezone=Europe%2FMadrid&config.animated=true)

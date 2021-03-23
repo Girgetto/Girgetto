@@ -28,6 +28,9 @@
     <a href="https://www.youtube.com/channel/UChqlNb3LpXclrYsIXzD2q_w">
         <img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube">
     </a>
+    <a href="https://stackoverflow.com/users/9095807/girgetto?tab=profile">
+        <img src="https://img.shields.io/badge/stackoverflow--_.svg?style=social&logo=stackoverflow" alt="stackoverflow">
+    </a>
 </p>
 
 ### 📕 Latest Blog Posts

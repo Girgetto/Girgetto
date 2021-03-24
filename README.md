@@ -1,8 +1,9 @@
 ### Hi, I'm Giorgio 👋
 
-- 💻 Full Stack developer at Guidesmiths
+- 💻 Full Stack developer @Guidesmiths
 - 🏋 Powerlifter
 - 🏀 Basketball player
+- 🎮 Console player
 
 ### Connect with me:
 

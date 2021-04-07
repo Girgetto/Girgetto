@@ -1,6 +1,6 @@
-### Hi, I'm Giorgio 👋
+### Hi, I'm Giorgio 😄
 
-Hi 😄I'm Giorgio, I'm a big fan of the world of programming and technology 🖥. I put all of myself into every project I do 💪🏻, trying to bring my ideas to reality. I feel comfortable working in a group trying to inspire all my teammates. 🚀
+I'm a big fan of the world of programming and technology 🖥. I put all of myself into every project I do 💪🏻, trying to bring my ideas to reality. I feel comfortable working in a group trying to inspire all my teammates. 🚀
 
 - 💻 Full Stack developer
 - 🏋 Powerlifter

@@ -1,5 +1,7 @@
 ### Hi, I'm Giorgio 👋
 
+Hi 😄I'm Giorgio, I'm a big fan of the world of programming and technology 🖥. I put all of myself into every project I do 💪🏻, trying to bring my ideas to reality. I feel comfortable working in a group trying to inspire all my teammates. 🚀
+
 - 💻 Full Stack developer
 - 🏋 Powerlifter
 - 🏀 Basketball player
@@ -31,6 +33,9 @@
     </a>
     <a href="https://stackoverflow.com/users/9095807/girgetto?tab=profile">
         <img src="https://img.shields.io/badge/stackoverflow--_.svg?style=social&logo=stackoverflow" alt="stackoverflow">
+    </a>
+    <a href="https://codepen.io/Girgetto">
+        <img src="https://img.shields.io/badge/codepen--_.svg?style=social&logo=codepen" alt="stackoverflow">
     </a>
 </p>
 

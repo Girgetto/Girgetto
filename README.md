@@ -44,11 +44,11 @@ I'm a big fan of the world of programming and technology 🖥. I put all of myse
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [💻 5 Useful VS Code extensions to help you with Javascript, React and Git](https://girgetto-io.netlify.com/vscode-extensions/)
 - [Systemic: the silver bullet to develop perfect microservices in Node.JS.](https://girgetto-io.netlify.com/systemic/)
 - [Hacktoberfest 2020](https://girgetto-io.netlify.com/hacktoberfest2020/)
 - [Reduce](https://girgetto-io.netlify.com/reduce/)
 - [Uncommunicative name](https://girgetto-io.netlify.com/uncomunicative-name/)
-- [Shotgun surgery](https://girgetto-io.netlify.com/shotgun-surgery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

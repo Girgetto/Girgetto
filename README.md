@@ -1,8 +1,9 @@
 ### Hi, I'm Giorgio 😄
 
-I'm a big fan of the world of programming and technology 🖥. I put all of myself into every project I do 💪🏻, trying to bring my ideas to reality. I feel comfortable working in a group trying to inspire all my teammates. 🚀
+I'm a Full stack developer based in Madrid📍, born and raise in italy 🇮🇹
+Currently working at DSCL Guidesmiths 💻 full time, giving classes at the bridge part time 📚
 
-- 💻 Full Stack developer
+Hobbies:
 - 🏋 Powerlifter
 - 🏀 Basketball player
 - 🎮 Console player

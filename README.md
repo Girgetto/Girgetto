@@ -1,8 +1,6 @@
 ### Hi, I'm Giorgio 😄
 
-I'm a Full stack developer based in Madrid📍, born and raised in italy 🇮🇹
-
-Currently working at DSCL Guidesmiths 💻 full time, giving classes at the bridge part time 📚
+I'm a Full stack developer, working at DSCL Guidesmiths 💻 full time, giving classes at the bridge part time 📚
 
 Hobbies:
 - 🏋 Powerlifter

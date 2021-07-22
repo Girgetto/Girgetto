@@ -2,10 +2,7 @@
 
 I'm a Full stack developer, working at DSCL Guidesmiths 💻 full time, giving classes at the bridge part time 📚
 
-Hobbies:
-- 🏋 Powerlifter
-- 🏀 Basketball player
-- 🎮 Console player
+Hobbies: 🏋 🏀 🎮
 
 ### Connect with me:
 

@@ -10,7 +10,7 @@ Hobbies: 🏋 🏀 🎮
     <a href="https://github.com/girgetto">
         <img src="https://img.shields.io/github/followers/girgetto.svg?label=GitHub&style=social" alt="GitHub Girgetto">
     </a>
-    <a href="https://twitter.com/__Giorgio_">
+    <a href="https://twitter.com/GirgettoIT">
         <img src="https://img.shields.io/twitter/follow/__Giorgio_?label=Twitter&style=social" alt="Twitter Girgetto">
     </a>
     <a href="https://twitch.tv/girgetto">

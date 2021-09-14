@@ -41,11 +41,9 @@ Hobbies: 🏋 🏀 🎮
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 5 Useful VS Code extensions to help you with Javascript, React and Git](https://girgetto-io.netlify.com/vscode-extensions/)
-- [Systemic: the silver bullet to develop perfect microservices in Node.JS.](https://girgetto-io.netlify.com/systemic/)
-- [Hacktoberfest 2020](https://girgetto-io.netlify.com/hacktoberfest2020/)
-- [Reduce](https://girgetto-io.netlify.com/reduce/)
-- [Uncommunicative name](https://girgetto-io.netlify.com/uncomunicative-name/)
+- [List of most voted questions on StackOverflow 🤔](https://dev.to/girgetto/list-of-most-voted-questions-on-stackoverflow-4ic0)
+- [💻 5 Useful VS Code extensions to help you with Javascript, React and Git](https://dev.to/girgetto/5-useful-vs-code-extensions-to-help-you-with-javascript-react-and-git-51kk)
+- [Systemic: the silver bullet to develop perfect microservices in Node.JS.](https://dev.to/dcsl-guidesmiths/systemic-the-silver-bullet-to-develop-perfect-microservices-in-node-js-d84)
 <!-- BLOG-POST-LIST:END -->
 
 ---

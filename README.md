@@ -1,6 +1,6 @@
 ### Hi, I'm Giorgio 😄
 
-I'm a Full stack developer, working at DSCL Guidesmiths 💻 full time, giving classes at the bridge part time 📚
+I'm a Full stack developer, working at DSCL Guidesmiths 💻 full time and teaching at the bridge part time 📚
 
 Hobbies: 🏋 🏀 🎮
 

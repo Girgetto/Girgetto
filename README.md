@@ -41,7 +41,6 @@ Hobbies: 🏋 🏀 🎮
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [List of most voted questions on StackOverflow 🤔](https://dev.to/girgetto/list-of-most-voted-questions-on-stackoverflow-4ic0)
 - [💻 5 Useful VS Code extensions to help you with Javascript, React and Git](https://dev.to/girgetto/5-useful-vs-code-extensions-to-help-you-with-javascript-react-and-git-51kk)
 - [Systemic: the silver bullet to develop perfect microservices in Node.JS.](https://dev.to/dcsl-guidesmiths/systemic-the-silver-bullet-to-develop-perfect-microservices-in-node-js-d84)
 <!-- BLOG-POST-LIST:END -->

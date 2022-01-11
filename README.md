@@ -16,7 +16,7 @@ Hobbies: 🏋 🏀 🎮
     <a href="https://twitch.tv/girgetto">
         <img src="https://img.shields.io/badge/Twitch--_.svg?label=Twitch&style=social&logo=twitch" alt="Twitch Girgetto">
     </a>
-    <a href="https://instagram.com/giorgio_grassini">
+    <a href="https://instagram.com/girgettoit">
         <img src="https://img.shields.io/badge/Instagram--_.svg?label=Instagram&style=social&logo=instagram" alt="Instagram">
     </a>
     <a href="https://dev.to/girgetto">

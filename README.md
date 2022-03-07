@@ -2,8 +2,6 @@
 
 I'm a Full stack developer, working at DSCL Guidesmiths 💻 full time and teaching at the bridge part time 📚
 
-Hobbies: 🏋 🏀 🎮
-
 ### Connect with me:
 
 <p align="left">

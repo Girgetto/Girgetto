@@ -1,6 +1,6 @@
 ### Hi, I'm Giorgio 😄
 
-I'm a Full stack developer, working at DSCL Guidesmiths 💻 and teaching at The Bridge part time 📚
+I'm a Full stack developer, working at DCSL Guidesmiths 💻 and teaching at The Bridge part time 📚
 
 ### Connect with me:
 

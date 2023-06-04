@@ -1,6 +1,6 @@
 ### Hi, I'm Giorgio 😄
 
-I'm a Full stack developer, working at One beyond 💻 and teaching at The Bridge part time 📚
+I'm a Full stack developer 💻
 
 ### Connect with me:
 

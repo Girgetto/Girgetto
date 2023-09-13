@@ -33,14 +33,3 @@ I'm a Full stack developer 💻
         <img src="https://img.shields.io/badge/codepen--_.svg?style=social&logo=codepen" alt="stackoverflow">
     </a>
 </p>
-
-### 📕 Latest Blog Posts
-
----
-
-<!-- BLOG-POST-LIST:START -->
-- [💻 5 Useful VS Code extensions to help you with Javascript, React and Git](https://dev.to/girgetto/5-useful-vs-code-extensions-to-help-you-with-javascript-react-and-git-51kk)
-- [Systemic: the silver bullet to develop perfect microservices in Node.JS.](https://dev.to/dcsl-guidesmiths/systemic-the-silver-bullet-to-develop-perfect-microservices-in-node-js-d84)
-<!-- BLOG-POST-LIST:END -->
-
----

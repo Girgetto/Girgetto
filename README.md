@@ -1,8 +1,4 @@
-### Hi, I'm Giorgio 😄
-
-I'm a Full stack developer 💻
-
-### Connect with me:
+### Girgetto
 
 <p align="left">
     <a href="https://github.com/girgetto">

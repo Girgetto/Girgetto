@@ -16,9 +16,6 @@
     <a href="https://dev.to/girgetto">
         <img src="https://img.shields.io/badge/DEV--_.svg?style=social&logo=dev.to" alt="Dev.to Girgetto">
     </a>
-    <a href="https://www.linkedin.com/in/giorgiograssini">
-        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
-    </a>
     <a href="https://www.youtube.com/channel/UChqlNb3LpXclrYsIXzD2q_w">
         <img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube">
     </a>
@@ -26,6 +23,6 @@
         <img src="https://img.shields.io/badge/stackoverflow--_.svg?style=social&logo=stackoverflow" alt="stackoverflow">
     </a>
     <a href="https://codepen.io/Girgetto">
-        <img src="https://img.shields.io/badge/codepen--_.svg?style=social&logo=codepen" alt="stackoverflow">
+        <img src="https://img.shields.io/badge/codepen--_.svg?style=social&logo=codepen" alt="codepen">
     </a>
 </p>

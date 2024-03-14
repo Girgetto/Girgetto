@@ -1,5 +1,7 @@
 ### Girgetto
 
+Soy programador
+
 <p align="left">
     <a href="https://github.com/girgetto">
         <img src="https://img.shields.io/github/followers/girgetto.svg?label=GitHub&style=social" alt="GitHub Girgetto">

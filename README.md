@@ -13,7 +13,6 @@ I build things with code. Sometimes they work on the first try. *Sometimes.*
 - 💼 Working at [Tailor](https://www.tailor-hub.com/en) - Building awesome stuff
 - 🌱 Always learning something new
 - ☕ Converting coffee into functional code (success rate: ~87%)
-- 📝 Writing on my blog at **[girgetto.it](https://girgetto.it)** - Sharing knowledge and publishing applications
 
 ---
 

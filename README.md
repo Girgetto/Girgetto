@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Girgetto!
+# 👋 Hey, I'm Giorgio AKA Girgetto!
 
 > *Passionate programmer on a mission to write clean code and solve interesting problems.*
 > Currently crafting digital experiences at **[Tailor](https://www.tailor-hub.com/en)** 🚀
